@@ -1,0 +1,39 @@
+td {
+    background-color: cadetblue;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px black;
+    text-align: center;
+}
+body {
+    background: url(háttér3.gif);
+    text-align: center;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: white;
+
+}
+table {
+    margin: auto;
+    
+}
+img {
+    width: 180px;
+    height: 180px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+.rólam {
+    background-color: rgb(134, 179, 238);
+    color: black;
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    width: auto;
+    height: auto;
+
+}
+

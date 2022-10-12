@@ -6,6 +6,11 @@ td {
     box-shadow: 1px 1px 3px black;
     text-align: center;
 }
+
+td.x {
+    visibility: hidden;
+}
+
 body {
     background: url(háttér3.gif);
     text-align: center;
@@ -36,4 +41,6 @@ img {
     height: auto;
 
 }
+
+
 
